@@ -4,7 +4,7 @@ A simple web application built with React and Vite that generates secure passwor
 
 ## Features
 
-- Generate passwords ranging from 8 to 128 characters.
+- Generate passwords ranging from 8 to 100 characters.
 - Customize passwords by including numbers and special characters.
 - Adjust password length using a range input.
 
